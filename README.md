@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas | 💻 Desenvolvedor em formação
 
